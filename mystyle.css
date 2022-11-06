@@ -1,0 +1,11 @@
+   body {background:silver} 
+   table {background:blue; width: 96%}
+   h1 {font-size: 50pt; text-align:center; color:red}
+   p {color:blue; font-size:25pt}
+   caption {font-size:20pt}
+   th {font-size:2pc; color:orange}
+   h3 {font-size: 30pt; text-align:center; color:grey}
+   a {display: block; text-align: center; color:red}
+   .flex{ 
+      display: flex;
+   }
